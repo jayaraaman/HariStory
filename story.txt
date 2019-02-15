@@ -1,7 +1,16 @@
-	Jimmy had just finished creating his java program. He had just learned how to do 
+	Jimmy had just finished creating his Java program. He had just learned how to do 
 recursive method calling, and was extremenly proud of what he had made. One day, he was 
 tinkering around with his program when all of a sudden, like magic, flashes of light burst 
 out of his computer and enveloped his entire body, sucking him literally into his own 
 program. He felt okay about his situation, realizing that he would just have to wait until 
 he arrived at the base case in order to return to the real world. There was just one 
 problem: he had made the rookie mistake of forgetting to write a base case for his program.
+
+	
+	Afraid, lost, and confused, Jimmy wandered around this new virtual world. Without a base
+case there was absolute chaos. Bugs and exceptions swarmed him. How would he get out of this problem?! 
+With little knowledge of where he was, or what to do, Jimmy did what he always did when he was scared. He reached
+into his back pocket and pulled out his Java for Dummies book. Swatting away bugs, errors, and exceptions while reading
+the book was hard,  but Jimmy was able to read the chapter on base cases for Java programs. Suddenly, Jimmy's body started
+to glow as he became One with Java. Lines of code appeared in front of his head, and he could manipulate the program at will.
+Jimmy spent days in the program, learning the ins and outs of Java, and writing code that would get him out of this virtual hell.
