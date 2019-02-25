@@ -13,9 +13,8 @@ With little knowledge of where he was, or what to do, Jimmy did what he always d
 into his back pocket and pulled out his Java for Dummies book. Swatting away bugs, errors, and exceptions while reading
 the book was hard,  but Jimmy was able to read the chapter on base cases for Java programs. Suddenly, Jimmy's body started
 to glow as he became One with Java. Lines of code appeared in front of his head, and he could manipulate the program at will.
-<<<<<<< HEAD
 Jimmy spent days in the program, learning the ins and outs of Java, and writing code that would get him out of this virtual hell...
-=======
+
 Jimmy spent days in the program, learning the ins and outs of Java, and writing code that would get him out of this virtual hell.
 
 	Because the loop is recursive. Everyday Jimmy gets up, the bugs and Exceptions still exists
@@ -31,4 +30,3 @@ on time and within the specific parameters. Finally, after brainstorming for hou
 algorithm to recursively make it through the tests and to complete it through.
 
 
->>>>>>> df5b9ac2ad547f15f5a9c3ce15d9df2d17c09dfc
