@@ -20,3 +20,11 @@ as the first day he enters the virtual world. He learns and tries every single d
 send him back to reallity for days, His programming skills improved, and knowledge kept in his brain although
 the reciursion continues. He believes that he will be able to write this recursion without syntax, compile, and logic 
 error very soon.
+
+The recursive method was very difficult and it was tough to complete it in time. It was in the process
+of completing the base case and figuring out the recursive algorithm for going through the whole list. The 
+program was very tough to complete given the time constraints. Hopefully, I had enough to complete the project
+on time and within the specific parameters. Finally, after brainstorming for hours on, the program had the correct
+algorithm to recursively make it through the tests and to complete it through.
+
+
