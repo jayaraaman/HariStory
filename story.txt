@@ -1,9 +1,10 @@
+
 	Jimmy had just finished creating his Java program. He had just learned how to do 
 recursive method calling, and was extremenly proud of what he had made. One day, he was 
 tinkering around with his program when all of a sudden, like magic, flashes of light burst 
-out of his computer and enveloped his entire body, sucking him literally into his own 
+out of his computer and enveloped his entire body, sucking him literally right into his own 
 program. He felt okay about his situation, realizing that he would just have to wait until 
-he arrived at the base case in order to return to the real world. There was just one 
+he arrived at the base case in order to return to the real world. There was just one major 
 problem: he had made the rookie mistake of forgetting to write a base case for his program.
 
 	
