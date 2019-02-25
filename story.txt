@@ -15,8 +15,6 @@ the book was hard,  but Jimmy was able to read the chapter on base cases for Jav
 to glow as he became One with Java. Lines of code appeared in front of his head, and he could manipulate the program at will.
 Jimmy spent days in the program, learning the ins and outs of Java, and writing code that would get him out of this virtual hell...
 
-Jimmy spent days in the program, learning the ins and outs of Java, and writing code that would get him out of this virtual hell.
-
 	Because the loop is recursive. Everyday Jimmy gets up, the bugs and Exceptions still exists
 as the first day he enters the virtual world. He learns and tries every single day. Even he failed to
 send him back to reallity for days, His programming skills improved, and knowledge kept in his brain although
