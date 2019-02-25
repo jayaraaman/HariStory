@@ -1,4 +1,5 @@
 
+
 	Jimmy had just finished creating his Java program. He had just learned how to do 
 recursive method calling, and was extremenly proud of what he had made. One day, he was 
 tinkering around with his program when all of a sudden, like magic, flashes of light burst 
@@ -28,4 +29,8 @@ program was very tough to complete given the time constraints. Hopefully, I had 
 on time and within the specific parameters. Finally, after brainstorming for hours on, the program had the correct
 algorithm to recursively make it through the tests and to complete it through.
 
-
+	However, Jimmy still had to deal with the fact that he was stuck inside of 
+a program. Yes, a computer screen full of text and lines. However, luckily, after 
+passing his recursion tests, sudden white flashes appeared, and he was spit back 
+out into reality. Thankful and relieved to be back in reality, he swore from that 
+day on that he would never forget to add a base case to any of his recursive algorithms.
